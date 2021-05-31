@@ -1,0 +1,7 @@
+# Project Requirements
+# 
+# Use `pip install -r requirements.txt` to install the following dependencies
+beautifulsoup4
+lxml
+pandas
+requests
